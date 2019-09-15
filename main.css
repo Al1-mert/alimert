@@ -1,0 +1,72 @@
+.x{
+width:auto;
+margin: 0px auto;
+background-color:papayawhip;
+
+}
+
+header{
+padding: 20px 20px;
+text-align: center;
+background: rgba(131, 226, 68, 0.849);
+color:white;
+font-size: 35px;
+width:100%;
+letter-spacing: 10px;
+font-weight:bold;
+
+}
+.header2{
+    font-weight:bold;
+    padding: 20px 20px;
+    text-align: center;
+    color:white;
+    font-size: 35px;
+    width:100%;
+    letter-spacing: 1px;
+    }
+
+
+nav{
+font-size:25px;
+width:40px;
+padding:15px;
+padding-top:20px;
+padding-left:10px;
+color:white;
+overflow: hidden; 
+background-color: #333;
+font-weight:bold;
+border-bottom-right-radius: 1cm;
+}
+
+nav:hover{
+    background-color:red;
+}
+
+
+body{
+    margin:0px;
+    overflow:hidden;
+}
+
+
+footer{
+    height:600px;
+    color:black;
+    width: 80%;
+    text-align:center;
+    padding:15px;
+    margin: 0px auto;
+    background-color: rgb(236, 226, 208);
+}
+
+.fas fa-home{
+    background-color:green;
+}
+
+
+P:first-child{
+    background-color:red;
+}
+
