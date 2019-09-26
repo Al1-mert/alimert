@@ -1,0 +1,86 @@
+html,body{
+    margin:0px;
+    padding:0px;
+}
+img{
+    max-width: 100%;
+    width:auto;
+    height:auto;
+}
+
+
+    
+    header{
+    padding: 5px 20px;
+    text-align: center;
+    background: #333;
+    color:white;
+    font-size: 35px;
+    width:100%;
+    letter-spacing: 10px;
+    font-weight:bold;
+    max-width: 100%;
+    }
+    .headerAlt{
+        font-weight:bold;
+        padding: 20px 20px;
+        text-align: center;
+        color:white;
+        font-size: 35px;
+        width:100%;
+        letter-spacing: 1px;
+        max-width: 100%;
+
+        }
+    
+    
+    nav{
+    font-size:25px;
+    width:40px;
+    padding:15px;
+    padding-top:20px;
+    padding-left:10px;
+    color:white;
+    overflow: hidden; 
+    background-color: #333;
+    font-weight:bold;
+    max-width: 100%;
+
+    }
+    
+    nav:hover{
+        background-color:gray;
+    }
+    
+    #navbar{
+        background-color:#333;
+        list-style-type:none;
+        padding:0px;
+        margin:0px;
+    }
+    #navbar li{
+    }
+
+    
+    
+    .fas{
+    padding:10px;
+    border: 1px solid white; 
+    border-radius: 10px;
+    
+    }
+    
+    .fa-book-li{
+    border-radius:1cm;
+    }
+    
+    
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    li {
+        display: inline-block;
+    }
