@@ -6,21 +6,22 @@ html body{
 #header{
 width:100%;
 height: 10vw;
-background-color:gray;
-padding-top:40px;
+background-color:black;
+padding-top:2vw;
+padding-bottom:8vw;
 text-align:center;
 font-family: "Palatino Linotype", Times, serif;
 
 }
 ust{
     font-weight:bold;
-    font-size: 3vw;
+    font-size: 6vw;
     letter-spacing: 3px;
     color:white;
 }
 #hosgeldiniz{
     font-weight:bold;
-    font-size: 1.5vw;
+    font-size: 3vw;
     letter-spacing: 3px;
     color:white;
 }
@@ -35,7 +36,11 @@ font-size:0.7em;
 
 
 @media only screen and (min-width: 600px) {
-    #content {
+   
+   #header{
+    padding-top:40px;
+
+   } #content {
         font-size:1.5em;
         margin-left: 5%;
         margin-right: 5%;
