@@ -8,19 +8,20 @@ width:100%;
 height: 10vw;
 background-color:gray;
 padding-top:2vw;
+padding-bottom:2vw;
 text-align:center;
 font-family: "Palatino Linotype", Times, serif;
 
 }
 ust{
     font-weight:bold;
-    font-size: 3vw;
+    font-size: 5vw;
     letter-spacing: 3px;
     color:white;
 }
 #hosgeldiniz{
     font-weight:bold;
-    font-size: 1.5vw;
+    font-size: 3vw;
     letter-spacing: 3px;
     color:white;
 }
