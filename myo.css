@@ -1,0 +1,29 @@
+.bolumlerContainer{
+text-align: center;
+margin: 10vh;
+
+}
+.bolum{
+    margin:15px 10px;
+    width:40vw;
+    height: 60vh;
+    display:inline-flex;
+         border: 5px solid #2EE59D;
+         border-radius:5px;
+}
+.bolumContainer{
+    margin-left: 17vw;
+    margin-top: 5vh;
+
+}
+ul {
+    list-style-type: none;
+    padding:0px;
+    margin:0px;
+    margin-top:5px;
+}
+
+body{
+    margin:0px;
+    font-family: 'Be Vietnam', 'Arial Narrow', Arial, sans-serif;
+}
